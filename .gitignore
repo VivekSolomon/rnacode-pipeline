@@ -1,0 +1,8 @@
+work/
+results/
+tool_files/
+*.fai
+*.nhr *.nin *.nsq *.phr *.pin *.psq   # BLAST dbs
+*.mmseqs*                              # mmseqs caches
+.DS_Store
+.env

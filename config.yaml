@@ -1,0 +1,12 @@
+taxon_query: "txid543[ORGN]"     # Enterobacteriaceae (change per target)
+blast_db: "refseq_protein"
+word_size: 2
+evalue: 0.05
+max_target_seqs: 600
+coverage_min: 80
+length_ratio_min: 0.80
+length_ratio_max: 1.25
+cdhit_nt_identity: 0.98
+rnacode_nsamples: 200
+rnacode_p_cutoff: 0.05
+min_window_nt: 54

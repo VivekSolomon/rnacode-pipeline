@@ -1,2 +1,3 @@
 # rnacode-pipeline
-Alogorthmic pipeline of testing protein conservation from FASTA to dN/dS calculation using RNAcode
+AA-first homolog gathering → codon-aware MSA → RNAcode scoring.
+See config.yaml for thresholds; put helpers in bin/.
